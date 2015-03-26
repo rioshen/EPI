@@ -1,4 +1,4 @@
-package chap7;
+package Chapter7;
 
 import utils.JumpListNode;
 

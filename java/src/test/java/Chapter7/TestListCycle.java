@@ -1,4 +1,4 @@
-package chap7;
+package Chapter7;
 
 import org.junit.Test;
 import utils.ListNode;
